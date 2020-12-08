@@ -5,7 +5,7 @@
   # Hello, world! 👋
 
   #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/ibrahim-huseynzade-a13336181) - [Instagram](https://www.instagram.com/1brahim.h) - [Email](ibrahim.huseynzade.8a2.2014@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/ibrahim-huseynzade-a13336181) - [Instagram](https://www.instagram.com/1brahim.h) - [Email](mailto:ibrahim.huseynzade.8a2.2014@gmail.com)
   <br>
   <br>
   <br>
@@ -15,4 +15,5 @@
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TorideX" alt="visitor badge"/>
   <br>
+  ⭐️ From [TorideX](https://github.com/TorideX) 
 </div>
