@@ -4,7 +4,7 @@
   
   # Hello, world! 👋
 
-  #### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+  #### You can find me on:
 
   <a href="https://www.linkedin.com/in/ibrahim-huseynzade-a13336181">
     <img  alt="Ibrahim | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
