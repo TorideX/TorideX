@@ -21,5 +21,6 @@
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TorideX" alt="visitor badge"/>
   <br>
-  ⭐️ From [TorideX](https://github.com/TorideX) 
+  
 </div>
+⭐️ From [TorideX](https://github.com/TorideX) 
