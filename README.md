@@ -9,9 +9,6 @@
   <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TorideX&show_icons=true&line_height=45&include_all_commits=true" /> 
-  <br>
-  <br>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TorideX" alt="visitor badge"/>
   <br>
