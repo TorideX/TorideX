@@ -4,9 +4,18 @@
   
   # Hello, world! 👋
 
-  #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/ibrahim-huseynzade-a13336181) - [Instagram](https://www.instagram.com/1brahim.h) - [Email](mailto:ibrahim.huseynzade.8a2.2014@gmail.com)
-  <br>
+  ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/ibrahim-huseynzade-a13336181">
+    <img align="left" alt="Ibrahim | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp; 
+  <a href="https://www.instagram.com/1brahim.h">
+    <img align="left" alt="Ibrahim | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:ibrahim.huseynzade.8a2.2014@gmail.com">
+    <img align="left" alt="Ibrahim | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+    
   <br>
   <br>
   <br>
