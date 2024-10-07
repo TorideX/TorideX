@@ -6,7 +6,7 @@
 
   #### You can find me on:
 
-  <a href="https://www.linkedin.com/in/ibrahim-huseynzade-a13336181" target="_blank">
+  <a href="https://www.linkedin.com/in/ibrahim-huseynzada-a13336181" target="_blank">
     <img alt="Ibrahim | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp; 
   <a href="https://www.instagram.com/1brahim.h" target="_blank">
